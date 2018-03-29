@@ -3,7 +3,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 
 1. Mixdown your project to a stereo file in MP3 format. For example, if you create a project called `stairway-to-heaven`, then you’d name the file `stairway-to-heaven.mp3`.
 2. Create a folder in your MMP server account for your project. For example, if your name was Jimmy Page, you’d create a folder called [`http://mmp.bmcc.cuny.edu/jimmy.page/spring-2018/mmp-100/project-3/`](http://mmp.bmcc.cuny.edu/jimmy.page/spring-2018/mmp-100/project-3/).
-3. Using FileZilla, upload your Audacity project and the mixdown file to the folder you created in the previous step. For example, if you had created a project called `stairway-to-heaven`, then you’d need to upload `stairway-to-heaven.aup`, `stairway-to-heaven_data`, and `stairway-to-heaven.mp3` to [`http://mmp.bmcc.cuny.edu/jimmy.page/spring-2018/mmp-100/project-3/`](http://mmp.bmcc.cuny.edu/jimmy.page/spring-2018/mmp-100/project-3/).
+3. Using FileZilla, upload your Audacity project and the mixdown file to the folder you created in the previous step. For example, if you had created a project called `stairway-to-heaven`, then you’d need to upload `stairway-to-heaven.aup`, `stairway-to-heaven_data`, and `stairway-to-heaven.mp3` to [`http://mmp.bmcc.cuny.edu/moritaka.awa/spring-2018/mmp-100/project-3/`](http://mmp.bmcc.cuny.edu/moritaka.awa/spring-2018/mmp-100/project-3/).
 4. Create an `index.html` file, add your full name, the name of the project, and link to the MP3 file using the `audio` element. Add it to your `project-3` folder.
 5. Edit this `README.md` file by adding a link to your project and including a description below.
 
