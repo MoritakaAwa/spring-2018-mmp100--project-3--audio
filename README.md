@@ -8,7 +8,7 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 5. Edit this `README.md` file by adding a link to your project and including a description below.
 
 ### Link
-[http://mmp.bmcc.cuny.edu/moritaka.awa/spring-2018/mmp-100/project-3/`](http://mmp.bmcc.cuny.edu/moritaka.awa/spring-2018/mmp-100/project-3/)
+[`http://mmp.bmcc.cuny.edu/moritaka.awa/spring-2018/mmp-100/project-3/`](http://mmp.bmcc.cuny.edu/moritaka.awa/spring-2018/mmp-100/project-3/)
 
 ### Description
 Winter is finally gone, and it's time to enjoy the spring breeze.
